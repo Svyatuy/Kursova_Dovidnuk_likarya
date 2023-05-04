@@ -1,0 +1,7 @@
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Release\Kursova_Dovidnic_Likarya.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Release\Kursova_Dovidnic_Likarya.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Release\Kursova_Dovidnic_Likarya.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Release\Kursova_Dovidnic_Likarya.exe
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Release\Kursova_Dovidnic_Likarya.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Release\Kursova_Dovidnic_Likarya.exe
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Release\Kursova_Dovidnic_Likarya.pdb

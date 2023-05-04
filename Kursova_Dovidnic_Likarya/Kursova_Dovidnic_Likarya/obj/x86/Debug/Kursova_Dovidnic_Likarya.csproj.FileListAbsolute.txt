@@ -1,0 +1,34 @@
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.exe
+C:\Users\User\documents\visual studio 2010\Projects\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.pdb
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.exe
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.pdb
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Debug\Kursova_Dovidnic_Likarya.exe
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Debug\Kursova_Dovidnic_Likarya.pdb
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csprojResolveAssemblyReference.cache
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Form1.resources
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Properties.Resources.resources
+D:\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Debug\Kursova_Dovidnic_Likarya.exe
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Debug\Kursova_Dovidnic_Likarya.pdb
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Form1.resources
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.exe
+C:\Users\Admin\Desktop\Курсова довідник лікаря\Курсова довідник лікаря\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.pdb
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Debug\Kursova_Dovidnic_Likarya.exe.config
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Debug\Kursova_Dovidnic_Likarya.exe
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\bin\Debug\Kursova_Dovidnic_Likarya.pdb
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.AssemblyReference.cache
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Form1.resources
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.Properties.Resources.resources
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.GenerateResource.cache
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.csproj.CoreCompileInputs.cache
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.exe
+C:\Users\ЛОХ\Desktop\шчеващ\Курсова довідник лікаря – копія\Kursova_Dovidnic_Likarya\Kursova_Dovidnic_Likarya\obj\x86\Debug\Kursova_Dovidnic_Likarya.pdb
